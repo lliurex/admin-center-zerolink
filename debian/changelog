@@ -1,3 +1,9 @@
+admin-center-zerolink (0.2.1) bionic; urgency=medium
+
+  * Rules changed 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Tue, 10 Mar 2020 12:31:37 +0100
+
 admin-center-zerolink (0.2) bionic; urgency=medium
 
   * New Banner and icon 
