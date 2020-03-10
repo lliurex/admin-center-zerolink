@@ -33,11 +33,11 @@
        inkscape:collect="always"
        id="linearGradient7224">
       <stop
-         style="stop-color:#cdcece;stop-opacity:1"
+         style="stop-color:#aeb1b2;stop-opacity:1"
          offset="0"
          id="stop7226" />
       <stop
-         style="stop-color:#eceded;stop-opacity:1"
+         style="stop-color:#d4eded;stop-opacity:1"
          offset="1"
          id="stop7228" />
     </linearGradient>
@@ -160,9 +160,9 @@
      inkscape:window-height="1015"
      id="namedview13"
      showgrid="false"
-     inkscape:zoom="1.1922066"
-     inkscape:cx="270.2591"
-     inkscape:cy="204.30403"
+     inkscape:zoom="1.6860347"
+     inkscape:cx="-6.4179225"
+     inkscape:cy="212.88843"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -358,28 +358,28 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:104.60523987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6a6a6a;fill-opacity:1;stroke:#07c1af;stroke-width:1.00000012;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:104.60523987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#40413f;fill-opacity:1;stroke:#1b75af;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="318.88098"
-       y="149.30504"
+       y="151.06006"
        id="text5033-5"
        transform="scale(0.87750912,1.1395893)"><tspan
          sodipodi:role="line"
          id="tspan5031-1"
          x="318.88098"
-         y="149.30504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SpaceColony-Medium;-inkscape-font-specification:SpaceColony-Medium;letter-spacing:0px;fill:#6a6a6a;fill-opacity:1;stroke-width:1.00000012;stroke:#07c1af;stroke-opacity:1;">A</tspan></text>
+         y="151.06006"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SpaceColony-Medium;-inkscape-font-specification:SpaceColony-Medium;letter-spacing:0px;fill:#40413f;fill-opacity:1;stroke:#1b75af;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:114.17324066px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#07c1af;fill-opacity:1;stroke:#6a6a6a;stroke-width:1.00000012;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:114.17324066px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1b75af;fill-opacity:1;stroke:#40413f;stroke-width:2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="312.66721"
-       y="255.00018"
+       y="253.22055"
        id="text5037-1"
        transform="scale(0.88981288,1.1238318)"><tspan
          sodipodi:role="line"
          id="tspan5035-0"
          x="312.66721"
-         y="255.00018"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SpaceColony-Medium;-inkscape-font-specification:SpaceColony-Medium;letter-spacing:0px;fill:#07c1af;fill-opacity:1;stroke-width:1.00000012;stroke:#6a6a6a;stroke-opacity:1;">C</tspan></text>
+         y="253.22055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:SpaceColony-Medium;-inkscape-font-specification:SpaceColony-Medium;letter-spacing:0px;fill:#1b75af;fill-opacity:1;stroke:#40413f;stroke-width:2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;">C</tspan></text>
     <g
        id="g952">
       <text
@@ -437,12 +437,12 @@
            sodipodi:role="line">C</tspan></text>
     </g>
     <rect
-       style="opacity:1;fill:#6a6a6a;fill-opacity:1;stroke:#07c1af;stroke-width:1.278;stroke-linecap:butt;stroke-miterlimit:0.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:#40413f;fill-opacity:1;stroke:#1b75af;stroke-width:2.078;stroke-linecap:butt;stroke-miterlimit:0.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect4362"
        width="133.14061"
-       height="3.9776647"
+       height="6.0746169"
        x="262.543"
-       y="183.4351"
+       y="179.33815"
        ry="1.840095"
        rx="1.8400949" />
   </g>
