@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Name=AdminCenter
+Name[es]=AdminCenter
+Name[ca_ES.UTF-8@valencia]=AdminCenter
+Name[ca_ES]=AdminCenter
+Name[ca]=AdminCenter
+Comment=LTSP, bootmanager and netinstall management
+Comment[es]=Gestion de LTSP, instalacion por red y gestor de arranque por red.
+Comment[ca_ES.UTF-8@valencia]=LTSP, bootmanager and netinstall management
+Comment[ca_ES]=LTSP, bootmanager and netinstall management
+Comment[ca]=LTSP, bootmanager and netinstall management
+Exec=firefox http://server/admin-center/login.php
+Terminal=false
+Icon=admin-center-icon
+Type=Application
+GenericName=AdminCenter
+Categories=LliureX-Administration;

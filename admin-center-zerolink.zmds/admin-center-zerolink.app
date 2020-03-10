@@ -1,0 +1,15 @@
+Name=admin-center-zerolink
+Name[es]=AdminCenter
+Name[en]=AdminCenter
+Name[qcv]=AdminCenter
+Name[ca_ES]=AdminCenter
+Comment=Access to AdminCenter
+Comment[es]=Acceso al AdminCenter
+Comment[qcv]=Access a l'AdminCenter
+Comment[ca_ES]=Access a l'AdminCenter
+Icon=admin-center-zerolink
+Groups=sudo;admins
+Category=System
+ScriptPath=admin-center-zerolink.zmd
+Using=pkexec
+Service=False
