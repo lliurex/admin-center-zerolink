@@ -1,3 +1,9 @@
+admin-center-zerolink (0.3) lliurex22; urgency=medium
+
+  * Remove teachers and students from alloweds groups 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 14 Jun 2022 11:11:58 +0200
+
 admin-center-zerolink (0.2.2) focal; urgency=medium
 
   * First version to focal.
